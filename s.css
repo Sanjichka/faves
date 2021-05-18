@@ -1,0 +1,184 @@
+body {
+  background-color: #769340;
+  background-image: url("gal.webp");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  font-family: 'Lucida Handwriting' ,Tahoma, Verdana, sans-serif;
+}
+
+.pad {
+  padding-top: 10px;
+}
+
+.mar {
+  margin: 10px;
+}
+
+.rt {
+  font-size: 200%;
+  font-weight: bolder;
+}
+
+.sinoover {
+  border-bottom: 4px solid aqua;
+}
+
+.normover {
+  border-bottom: 4px solid #303a3a;
+}
+
+.lab {
+  background-color: #237190;
+  border-radius: 10px;
+}
+
+.hi {
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: 'Lucida Handwriting' ,'Segoe UI', Tahoma, Verdana, sans-serif;
+  text-decoration: underline;
+  -webkit-text-decoration-color: aqua;
+          text-decoration-color: aqua;
+}
+
+.sliki {
+  margin: 50px;
+}
+
+.box1 {
+  background-color: #237190;
+  position: relative;
+  left: 0;
+  top: 15px;
+  width: 55%;
+  text-align: center;
+  font-size: xx-large;
+  border-bottom-right-radius: 35px;
+  text-decoration: underline;
+  -webkit-text-decoration-color: aqua;
+          text-decoration-color: aqua;
+}
+
+.box3 {
+  background-color: #237190;
+  position: relative;
+  left: 0;
+  top: 155px;
+  width: 55%;
+  text-align: center;
+  font-size: xx-large;
+  border-bottom-right-radius: 35px;
+  text-decoration: underline;
+  -webkit-text-decoration-color: aqua;
+          text-decoration-color: aqua;
+}
+
+.txt {
+  text-decoration: underline;
+  -webkit-text-decoration-color: aqua;
+          text-decoration-color: aqua;
+}
+
+.box2 {
+  background-color: #237190;
+  position: absolute;
+  right: 0;
+  float: left;
+  width: 55%;
+  text-align: center;
+  font-size: xx-large;
+  border-bottom-left-radius: 35px;
+  text-decoration: underline;
+  -webkit-text-decoration-color: aqua;
+          text-decoration-color: aqua;
+}
+
+.container {
+  background-color: #237190;
+  border-radius: 10px;
+  font-weight: bolder;
+  font-size: 250%;
+  font-family: 'Lucida Handwriting' ,'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.desno {
+  float: right;
+  position: relative;
+  margin-right: 8%;
+}
+
+.levo {
+  float: left;
+  position: relative;
+  margin-left: 8%;
+}
+
+.goredolu {
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+}
+
+.vn {
+  border-bottom: 3px solid aqua;
+  margin-top: 2%;
+}
+
+.vn3 {
+  border-bottom: 3px solid aqua;
+  margin-top: 2%;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.vn2 {
+  border-bottom: 3px solid aqua;
+  margin-top: 2%;
+  padding-bottom: 2.5%;
+  font-size: large;
+}
+
+@media (max-width: 1000px) {
+  .goredolu1 {
+    position: absolute;
+    margin-top: 12%;
+    margin-bottom: 12%;
+  }
+  .goredolu2 {
+    position: relative;
+    margin-bottom: 12%;
+  }
+  .box1, .box2, .box3 {
+    width: 75%;
+    text-align: none;
+  }
+}
+
+.vn1 {
+  border-bottom: 3px solid aqua;
+  margin-top: 2%;
+}
+
+.bcg {
+  background-color: #237190;
+}
+
+.dolu {
+  margin-bottom: 10%;
+  padding-bottom: 2%;
+}
+
+.dolu1 {
+  margin-bottom: 15%;
+  padding-bottom: 2%;
+}
+
+.container1 {
+  font-size: x-large;
+}
+/*# sourceMappingURL=s.css.map */

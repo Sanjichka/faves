@@ -1,4 +1,4 @@
-
+html {overflow-x: hidden;}
 body
 {
     background-color: rgb(118, 147, 64);
@@ -64,6 +64,10 @@ body
 #navlista li {
     margin: 12px;
     font-size: 20px;
+    
+}
+#navlista li a {
+    font-family: 'Lucida Handwriting', 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
 .img-sanja {
